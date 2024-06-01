@@ -1,40 +1,17 @@
-Mouse Tracking Balls
-This simple JavaScript code allows you to track the mouse movement on a webpage using animated balls. The balls move in response to the mouse cursor, creating an interactive visual effect.
+# Interactive Eyes Animation
 
-How It Works
-The code utilizes the 'document.onmousemove' event listener to continuously track the mouse movement. When the mouse moves, the 'x' and 'y' coordinates of the cursor relative to the window are calculated. These coordinates are then used to position the balls on the screen and create a smooth tracking effect.
+## Description: This project creates a simple interactive animation where two "eyes" follow the mouse cursor within a browser window. The eyes are represented by balls that move dynamically as the cursor moves.
 
-Usage
-To use this code:
+## How to Run:
+1. Download or clone the project files.
+2. Open the HTML file (`index.html`) in a web browser.
+3. Move your mouse cursor within the window to see the eyes follow it.
 
-1.Ensure you have an HTML file with balls represented by elements with the class name 'ball'.
-2.Include this JavaScript code in your HTML file or link it externally.
-3.As the mouse moves, the balls will follow its trajectory on the screen.
+## Roadmap of Future Improvements:
+## 1. Enhanced Eye Designs: Introduce more realistic eye designs with features like pupils and eyelids for a more engaging animation.
+## 2. Customizable Animation Speed: Allow users to adjust the speed at which the eyes follow the cursor.
+## 3. Mobile Compatibility: Optimize the animation for touch-based devices to provide a similar interactive experience on mobile platforms.
+## 4. Interactive Elements: Implement additional interactive elements around the eyes, such as blinking or changing expressions based on cursor movements.
+## 5. Accessibility Features: Ensure the animation is accessible to users with disabilities by providing alternative interaction methods or screen reader support.
 
-
-
-Mouse Tracking Balls
-This simple JavaScript code allows you to track the mouse movement on a webpage using animated balls. The balls move in response to the mouse cursor, creating an interactive visual effect.
-
-How It Works
-The code utilizes the document.onmousemove event listener to continuously track the mouse movement. When the mouse moves, the x and y coordinates of the cursor relative to the window are calculated. These coordinates are then used to position the balls on the screen and create a smooth tracking effect.
-
-Usage
-To use this code:
-
-Ensure you have an HTML file with balls represented by elements with the class name 'ball'.
-Include this JavaScript code in your HTML file or link it externally.
-As the mouse moves, the balls will follow its trajectory on the screen.
-
-
-Customization
-Feel free to customize the appearance and behavior of the balls by modifying the CSS styles and JavaScript code according to your needs.
-
-Compatibility
-This code should work in most modern web browsers that support JavaScript and CSS transformations.
-
-Credits
-This code snippet is inspired by MIT mouse-tracking effects and is commonly seen in other web development projects.
-
-License
-This project is licensed under the MIT License.
+## License Information: This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for details.
