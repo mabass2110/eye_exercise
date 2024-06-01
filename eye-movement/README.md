@@ -1,6 +1,7 @@
 # Interactive Eyes Animation
 
-## Description: This project creates a simple interactive animation where two "eyes" follow the mouse cursor within a browser window. The eyes are represented by balls that move dynamically as the cursor moves.
+## Description:
+This project creates a simple interactive animation where two "eyes" follow the mouse cursor within a browser window. The eyes are represented by balls that move dynamically as the cursor moves.
 
 ## How to Run:
 1. Download or clone the project files.
