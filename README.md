@@ -16,4 +16,5 @@ This project creates a simple interactive animation where two "eyes" follow the 
 4. Interactive Elements: Implement additional interactive elements around the eyes, such as blinking or changing expressions based on cursor movements.
 5. Accessibility Features: Ensure the animation is accessible to users with disabilities by providing alternative interaction methods or screen reader support.
 
-## License Information: This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for details.
+## License Information:
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute it according to the terms of the license.
